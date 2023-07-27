@@ -1,0 +1,46 @@
+{
+    "status": "ok",
+    "totalResults": 1366,
+    "articles": [
+
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Lewis Packwood",
+    "title": "40 years of the Nintendo Famicom – the console that changed the games industry",
+    "description": "Entering a crowded field, the Nintendo Famicom came to dominate the market in the 1980s, leaving a family orientated legacy that continues to be felt todayWhen the Nintendo Famicom, known abroad as the Nintendo Entertainment System, was launched on 15 July 19…",
+    "url": "https://www.theguardian.com/games/2023/jul/18/40-years-of-the-nintendo-famicom-the-console-that-changed-the-games-industry",
+    "urlToImage": "https://i.guim.co.uk/img/media/2925221df421c81e487e31fc945afbd31c3289cb/0_192_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eacf9881ce7d41dc1a81280ca2669634",
+    "publishedAt": "2023-07-18T11:00:38Z",
+    "content": "When the Nintendo Famicom, known abroad as the Nintendo Entertainment System, was launched on 15 July 1983, it entered a market crowded with formidable rivals. Six other consoles were released in Jap… [+14820 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Design-milk.com"
+    },
+    "author": "Gregory Han",
+    "title": "Aston Martin DB12 Plays a Game of Sporty Succession",
+    "description": "We visit the French Riviera and get behind the wheel of British automaker Aston Martin's most poised and powerful super tourer, the DB12.",
+    "url": "https://design-milk.com/?p=513408",
+    "urlToImage": "https://design-milk.com/images/2023/06/AstonMartin_DB12-FrenchRiviera-DM-10-810x540.jpg",
+    "publishedAt": "2023-07-18T13:00:49Z",
+    "content": "Driving conditions were far from ideal across sections of the Route Napoléon last month. The normally achingly bucolic stretch of winding backroads commencing from the glistening coastline of the Côt… [+6568 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Jonathan Bennett",
+    "title": "This RISC-V CPU Games in Rust from Inside the Game",
+    "description": "[Xander Naumenko] has created something truly impressive — a working RISC-V CPU completely contained in a Terraria world. And then for added fun, he wrote the game of pong, playable …read more",
+    "url": "https://hackaday.com/2023/07/17/this-risc-v-cpu-games-in-rust-from-inside-the-game/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/07/Terraria.png",
+    "publishedAt": "2023-07-18T02:00:26Z",
+    "content": "[Xander Naumenko] has created something truly impressive — a working RISC-V CPU completely contained in a Terraria world. And then for added fun, he wrote the game of pong, playable in real time, fro… [+2300 chars]"
+    }
+    ]
+    }

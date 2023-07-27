@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NuzDaily/static/css/main.e6c13ad2.css",
+    "main.js": "/NuzDaily/static/js/main.9881668c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NuzDaily/static/js/787.28cb0dcd.chunk.js",
+    "static/media/load.gif": "/NuzDaily/static/media/load.0c2993480d0ca8008754.gif",
+    "index.html": "/NuzDaily/index.html",
+    "main.e6c13ad2.css.map": "/NuzDaily/static/css/main.e6c13ad2.css.map",
+    "main.9881668c.js.map": "/NuzDaily/static/js/main.9881668c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NuzDaily/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9881668c.js"
+  ]
+}
